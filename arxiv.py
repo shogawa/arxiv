@@ -6,7 +6,6 @@ import pickle
 import re
 import urllib.request
 
-# 検索ワード
 #QUERY = "(cat:astro-ph.HE)+AND+(abs:AGN)"
 QUERY = "(cat:astro-ph)+AND+(abs:AGN)+OR+(abs:blackhole)"
 
@@ -50,10 +49,10 @@ def search_and_send(query, start, ids):
                 abstract = abstract.replace('\n', '')
 
                 with open('README.md', 'a') as file:
-                   file.write(title + '\n')
-                   file.write('URL: ' + url + '\n')
-                   file.write('Published: ' + date + '\n')
-                   file.write(abstract + '\n')
+                   file.write(title + '  \n')
+                   file.write('URL: ' + url + '  \n')
+                   file.write('Published: ' + date + '  \n')
+                   file.write(abstract + '  \n')
                 ids1.append(url)
                 counter = counter + 1
                 if counter == 10:
@@ -84,7 +83,7 @@ if __name__ == "__main__":
     # Post greeting to your Slack
     dt = datetime.now().strftime("%Y/%m/%d %H:%M:%S")
     with open('README.md', 'w') as file:
-        file.write(dt + '\n')
+        file.write(dt + '  \n')
 
     # Call function
     ids = search_and_send(query, start, ids)
