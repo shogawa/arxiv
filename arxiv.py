@@ -7,7 +7,7 @@ import re
 import urllib.request
 
 #QUERY = "(cat:astro-ph.HE)+AND+(abs:AGN)"
-QUERY = "(cat:astro-ph)+AND+(abs:AGN)+OR+(abs:blackhole)"
+QUERY = "(cat:astro-ph.*)+AND+(abs:AGN)+OR+(abs:blackhole)"
 
 
 
