@@ -52,7 +52,7 @@ def search_and_send(query, start, ids):
                    file.write(title + '  \n')
                    file.write('URL: ' + url + '  \n')
                    file.write('Published: ' + date + '  \n')
-                   file.write(abstract + '  \n')
+                   file.write(abstract + '  \n\n')
                 ids1.append(url)
                 counter = counter + 1
                 if counter == 10:
@@ -76,14 +76,11 @@ if __name__ == "__main__":
     # Query for arXiv API
     query = QUERY
 
-
-    # start =========================================================
     start = 0
 
-    # Post greeting to your Slack
     dt = datetime.now().strftime("%Y/%m/%d %H:%M:%S")
     with open('README.md', 'w') as file:
-        file.write(dt + '  \n')
+        file.write(dt + '  \n\n')
 
     # Call function
     ids = search_and_send(query, start, ids)
