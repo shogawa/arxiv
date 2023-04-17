@@ -46,10 +46,12 @@ def search_and_send(query, start, ids):
                 title = parse(entry, "title")[0]
                 abstract = parse(entry, "summary")[0]
                 date = parse(entry, "published")[0]
+                author = parse(entry, "name")
                 abstract = abstract.replace('\n', '')
 
                 with open('README.md', 'a') as file:
                    file.write(title + '  \n')
+                   file.write(", ".join(author) + '  \n')
                    file.write('URL: ' + url + '  \n')
                    file.write('Published: ' + date + '  \n')
                    file.write(abstract + '  \n\n')
