@@ -21,7 +21,7 @@ def parse(data, tag):
     return obj
 
 
-def search_and_send(query, start, ids):
+def search(query, start, ids):
     ids1 = []
     while True:
         counter = 0
@@ -34,7 +34,7 @@ def search_and_send(query, start, ids):
 
         # Get returned value from arXiv API
         req = urllib.request.Request(url)
-        with urllib.request.urlopen(req) as res:
+        with urllib.request.urlopen(req, timeout=10) as res:
             data = res.read().decode()
         # Parse the returned value
         entries = parse(data, "entry")
@@ -85,7 +85,7 @@ if __name__ == "__main__":
         file.write(dt + '  \n\n')
 
     # Call function
-    ids = search_and_send(query, start, ids)
+    ids = search(query, start, ids)
 
     # Update log of published data
     pickle.dump(ids, open("published.pkl", "wb"))
