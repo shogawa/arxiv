@@ -47,7 +47,7 @@ def search(query, start, ids):
                 abstract = parse(entry, "summary")[0]
                 date = parse(entry, "published")[0]
                 author = parse(entry, "name")
-                abstract = abstract.replace('\n', '')
+                abstract = abstract.replace('\n', ' ')
 
                 with open('README.md', 'a') as file:
                    file.write(title + '  \n')
