@@ -30,7 +30,7 @@ def search(query, start, ids):
 #            start) + '&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending'
 
         url = 'http://export.arxiv.org/api/query?search_query=' + query + '&start=' + str(
-            start) + '&max_results=10&sortBy=submittedDate&sortOrder=descending'
+            start) + '&max_results=20&sortBy=submittedDate&sortOrder=descending'
 
         # Get returned value from arXiv API
         req = urllib.request.Request(url)
@@ -57,7 +57,7 @@ def search(query, start, ids):
                    file.write(abstract + '  \n\n')
                 ids1.append(url)
                 counter = counter + 1
-                if counter == 10:
+                if counter == 20:
                     return ids1
         if counter == 0 and len(entries) < 100:
             with open('README.md', 'a') as file:
