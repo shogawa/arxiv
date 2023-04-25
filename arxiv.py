@@ -56,9 +56,9 @@ def search(query, start, ids):
                    file.write('Published: ' + date + '  \n')
                    file.write(abstract + '  \n\n')
                 ids1.append(url)
-                counter = counter + 1
-                if counter == 20:
-                    return ids1
+            counter = counter + 1
+            if counter == 20:
+                return ids1
         if counter == 0 and len(entries) < 100:
             with open('README.md', 'a') as file:
                 file.write('Currently, there is no available papers' + '\n')
