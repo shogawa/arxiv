@@ -1,9 +1,2 @@
-2023/10/02 03:06:46  
-
-The Close AGN Reference Survey (CARS): An interplay between radio jets
-  and AGN radiation in the radio-quiet AGN HE 0040-1105  
-M. Singha, N. Winkel, S. Vaddi, M. Pérez-Torres, M. Gaspari, I. Smirnova-Pinchukova, C. P. O'Dea, F. Combes, O. Omoruyi, T. Rose, R. McElroy, B. Husemann, T. A. Davis, S. A. Baum, C. Lawlor-Forsyth, J. Neumann, G. R. Tremblay  
-URL: http://arxiv.org/abs/2309.16926v1  
-Published: 2023-09-29T01:52:48Z  
-  We present a case study of HE 0040-1105, an unobscured radio-quiet AGN at a high accretion rate (Eddington ratio = 0.19+/-0.04). This particular AGN hosts an ionized gas outflow with the largest spatial offset from its nucleus compared to all other AGNs in the Close AGN Reference Survey (CARS). By combining multi-wavelength observations from VLT/MUSE, HST/WFC3, VLA, and EVN we probe the ionization conditions, gas kinematics, and radio emission from host galaxy scales to the central few pc. We detect four kinematically distinct components, one of which is a spatially unresolved AGN-driven outflow located within the central 500 pc, where it locally dominates the ISM conditions. Its velocity is too low to escape the host galaxy's gravitational potential, and maybe re-accreted onto the central black hole via chaotic cold accretion. We detect compact radio emission in HE 0040-1105,within the region covered by the outflow, varying on ~20 yr timescale. We show that neither AGN coronal emission nor star formation processes wholly explain the radio morphology/spectrum. The spatial alignment between the outflowing ionized gas and the radio continuum emission on 100 pc, scales is consistent with a weak jet morphology rather than diffuse radio emission produced by AGN winds. &gt; 90% of the outflowing ionized gas emission originates from the central 100 pc, within which the ionizing luminosity of the outflow is comparable to the mechanical power of the radio jet. Although radio jets might primarily drive the outflow in HE 0040-1105,, radiation pressure from the AGN may contribute in this process.   
+2023/10/03 03:06:34  
 
