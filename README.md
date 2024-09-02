@@ -1,16 +1,2 @@
-2024/08/30 03:08:38  
-
-Galaxies Lighting Up: Discovery of Seventy New Turn-on Changing-look
-  Quasars  
-Qian Yang, Paul J. Green, Xue-Bing Wu, Michael Eracleous, Linhua Jiang, Yuming Fu  
-URL: http://arxiv.org/abs/2408.16183v1  
-Published: 2024-08-29T00:42:52Z  
-  "Changing-look quasars" (CLQs), discovered less than a decade ago, show dramatic, rapid changes in optical/UV continuum and broad line emission. The majority of CLQs have been found dimming as "turn-off" CLQs because most selection methods start from samples of spectroscopically-confirmed quasars. We present here a sample of 82 spectroscopically confirmed "turn-on" CLQs, 70 of which are newly identified. The turn-on CLQs are selected from spectroscopically classified galaxies with subsequent significant and dramatic variability in both the optical and mid-infrared bands, indicating a mechanism of changing accretion rate of the supermassive black holes rather than variable obscuration. Based on their bright state Eddington ratios, turn-on CLQs are associated with lower accretion rates compared to turn-off CLQs or typical SDSS quasars with similar redshift and magnitude distributions, even though turn-on CLQs have lower black hole masses. Most turn-on CLQs reside in host galaxies that follow local relations between the central black hole mass and host galaxy properties, such as stellar mass and velocity dispersion. However, their host galaxies have higher mass than normal inactive galaxies, with star formation rates more similar to hosts of Type 2 AGN than to the overall galaxy population.   
-
-Mapping the Outcomes of Stellar Evolution in the Disks of Active
-  Galactic Nuclei  
-Gaia Fabj, Alexander J. Dittmann, Matteo Cantiello, Rosalba Perna, Johan Samsing  
-URL: http://arxiv.org/abs/2408.16050v1  
-Published: 2024-08-28T18:00:01Z  
-  The disks of Active Galactic Nuclei (AGNs) are expected to be populated by numerous stars, either formed in the outer regions of the disk via gravitational instability, or captured from the nearby nuclear star cluster. Regardless of their formation mechanism, these stars experience altered evolutionary paths, mostly shaped by the accretion of dense disk material. In this study, through the comparison of different timescales, we chart the evolutionary outcomes of these AGN stars as a function of disk radius and across a range of supermassive black hole (SMBH) masses, spanning from $10^6$ to $10^9 \rm M_\odot$, for two popular AGN disk models. We find that, in the outer regions of the disk, stars evolve similarly to those in the interstellar medium, but in the inner and denser regions accretion quickly turns low-mass stars into massive stars, and their fate depends on just how quickly they accrete. If accretion occurs at a faster rate than nuclear burning, they can reach a quasi-steady `immortal' state. If stars accrete faster than they can thermally adjust, runaway accretion occurs, potentially preventing a quasi-steady state and altering the disk structure. During the AGN lifetime, in the regions of the disk that produce massive stars, supernovae (SNe) and Gamma-Ray Bursts (GRBs) may occur within the disk over a wide range of optical depths and ambient densities. Subsequently, in the final phase of the AGN, as the disk becomes depleted, formerly immortal stars will be unable to replenish their fuel, leading to additional SNe and GRBs.   
+2024/09/02 03:09:19  
 
