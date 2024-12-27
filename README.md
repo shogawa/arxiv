@@ -1,16 +1,2 @@
-2024/12/26 03:13:33  
-
-Detection of an Orphan X-ray Flare from a Blazar Candidate EP240709a
-  with Einstein Probe  
-Mingjun Liu, Yijia Zhang, Yun Wang, Rui Xue, David Buckley, D. Andrew Howell, Chichuan Jin, Wenxiong Li, Itumeleng Monageng, Haiwu Pan, Ning-Chen Sun, Samaporn Tinyanont, Lingzhi Wang, Weimin Yuan, Jie An, Moira Andrews, Rungrit Anutarawiramkul, Pathompong Butpan, Huaqing Cheng, Cui-Yuan Dai, Lixin Dai, Joseph Farah, Hua Feng, Shaoyu Fu, Zhen Guo, Shuaiqing Jiang, An Li, Dongyue Li, Yifang Liang, Heyang Liu, Xing Liu, Yuan Liu, Jirong Mao, Curtis McCully, Megan Newsome, Estefania Padilla Gonzalez, Xin Pan, Xinxiang Sun, Giacomo Terreran, Ze-Rui Wang, Qinyu Wu, Hubing Xiao, Dingrong Xiong, Dong Xu, Xinpeng Xu, Suijian Xue, Haonan Yang, Jun Yang, Jin Zhang, Wenda Zhang, Wenjie Zhang, Hu Zou  
-URL: http://arxiv.org/abs/2412.18463v1  
-Published: 2024-12-24T14:46:03Z  
-  Blazars are often observed to flare across multiple wavelengths. Orphan flares from blazars have been only detected a few times, providing an opportunity to understand the structure of the jet in the accreting system. We report a remarkable orphan X-ray flare from a blazar candidate EP240709a, detected by Einstein Probe (EP) in July 2024. The multi-band spectral properties and variability support EP240709a as a high-energy peaked BL Lacertae-type object. The flux in 0.5-10 keV increases by at least 28 times to the value of low state in 2020, with non-detection of remarkable flaring in other bands during the same period. EP240709a exhibits the harder-when-brighter tendency in the X-ray band during the orphan flare, while its infrared-optical spectra are featureless. We employ one-zone and two-zone leptonic synchrotron self-Compton models to perform the spectral energy distribution fitting. Detecting this rare orphan flare shows the potential of EP in discovering peculiar activities from AGN in high-cadence X-ray sky surveys.   
-
-Exploring variation of double-peak broad-line profile in strongly
-  variable AGNs  
-Jiancheng Wu, Qingwen Wu, Kaixing Lu, Xinwu Cao, Xiangli Lei, Mengye Wang, Xiao Fan  
-URL: http://arxiv.org/abs/2412.18146v1  
-Published: 2024-12-24T04:04:30Z  
-  The geometry and kinematics of the broad-line region (BLR) in AGNs are still unclear, which is crucial for studying the physics and evolution of supermassive black holes (SMBHs) and AGNs. The broad-line profile provides valuable information on BLR geometry and kinematics. In this work, we explore the evolution of line profiles in variable AGNs based on the BLR model of Czerny \&amp; Hryniewicz, where the BLR is driven by the radiation pressure acting on dust at the surface layers of the accretion disk. The line profiles in the low-Eddington-ratio regime show a double-peak profile, which will become a single peak at high Eddington ratios. The high metallicity of $Z\gtrsim 5Z_{\odot}$ is required to reproduce the observational anti-correlation between the peak separation of broad lines and the Eddington ratio for a sample of AGNs. For the broad lines in variable AGNs, it will take several years to several decades to change their line profile if the disk luminosity suffers strong variation in a much shorter timescale. More monitoring of the broad line and continuum in strongly variable AGNs can shed special light on BLR physics.   
+2024/12/27 03:13:23  
 
