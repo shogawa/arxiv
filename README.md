@@ -1,16 +1,2 @@
-2025/03/04 03:19:37  
-
-On the Extremely X-ray Variable Active Galactic Nuclei in the XMM-LSS
-  Field  
-Zijian Zhang, Bin Luo, Linhua Jiang, W. N. Brandt, Jian Huang, Qingling Ni  
-URL: http://arxiv.org/abs/2502.20556v1  
-Published: 2025-02-27T21:55:10Z  
-  We present a systematic investigation of extremely X-ray variable active galactic nuclei (AGNs) in the $\approx 5.3~{\rm deg}^2$ XMM-SERVS XMM-LSS region. Eight variable AGNs are identified with rest-frame 2 keV flux density variability amplitudes around 6-12. We comprehensively analyze the X-ray and multiwavelength data to probe the origin of their extreme X-ray variability. It is found that their extreme X-ray variability can be ascribed to changing accretion state or changing obscuration from dust-free absorbers. For five AGNs, their X-ray variability is attributed to changing accretion state, supported by contemporaneous multiwavelength variability and the absence of X-ray absorption in the low-state spectra. With new Multiple Mirror Telescope (MMT) spectra for four of these sources, we confirm one changing-look AGN. One MMT AGN lacks multi-epoch spectroscopic observations, while the other two AGNs do not exhibit changing-look behavior, likely because the MMT observations did not capture their high states. The X-ray variability of the other three AGNs is explained by changing obscuration, and they show only mild long-term optical/IR variability. The absorbers of these sources are likely clumpy accretion-disk winds, with variable column densities and covering factors along the lines of sight.   
-
-JWST + ALMA ubiquitously discover companion systems within
-  $\lesssim18\,$kpc around four $z$$\approx$3.5 luminous radio-loud AGN  
-Wuji Wang, Carlos De Breuck, Dominika Wylezalek, Joël Vernet, Matthew D. Lehnert, Daniel Stern, David S. N. Rupke, Nicole P. H. Nesvadba, Andrey Vayner, Nadia L. Zakamska, Lingrui Lin, Pranav Kukreti, Bruno Dall'Agnol de Oliveira, Julian T. Groth  
-URL: http://arxiv.org/abs/2502.20442v1  
-Published: 2025-02-27T19:00:01Z  
-  Mergers play important roles in galaxy evolution at and beyond Cosmic Noon ($z\sim3$). They are found to be a trigger of active galactic nuclei (AGN) activity and a process for growing stellar mass and black hole mass. High-$z$ radio galaxies (HzRGs=type-2 radio-loud AGN) are among the most massive galaxies known, and reside in dense environments on scales of tens of kiloparsecs to Megaparsecs. We present the first search for kpc-scale companions in a sample of four $z\sim3.5$ HzRGs, with many supporting datasets, using matched 0.2" resolution ALMA and JWST/NIRSpec integral field unit data. We discover a total of $\sim12$ companion systems within $\lesssim18\,$kpc across all four HzRG fields using two independent detection methods: peculiar [OIII]$4959,5007$ kinematics offset from the main (systemic) ionized gas component and [CII]$158\rm \mu m$ emitters. We examine the velocity fields of these companions and find evidence of disk rotation along with more complex motions. We estimate the dynamical masses of these nearby systems to be $M_{\rm dyn}\sim10^{9-11}\,M_{\odot}$, which may indicate a minor merger scenario. Our results indicate that these companions may be the trigger of the powerful radio-loud AGN. We discuss the roles of the discovered companion systems in galaxy evolution for these powerful jetted AGN and indicate that they may impede jet launch and deflect the jet.   
+2025/03/05 03:18:18  
 
